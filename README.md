@@ -1,4 +1,3 @@
 # whatsapp-chat-analysis
-A streamlit app to analyze your whatsapp chats
+A app to analyze your whatsapp chats
 
-Demo Link: https://shorturl.at/tABFU
